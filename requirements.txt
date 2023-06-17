@@ -1,0 +1,9 @@
+tweepy
+pandas
+plotly.express
+plotly.graph_objects
+nltk
+re
+vaderSentiment
+matplotlib.pyplot
+wordcloud
