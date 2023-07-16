@@ -1,6 +1,8 @@
 # Crypto_Sentiment_Analysis
 Sentiment Analysis of Twitter Accounts of different Cryptocurrencies.
 
+The Crypto Sentiment Analysis project leverages the Twitter Developer's API to gather real-time data from Twitter. By employing Natural Language Processing (NLP) techniques, this project enables the analysis of sentiment surrounding cryptocurrencies, providing valuable insights into public opinion and market trends.
+
 # Softwares and Tools Used
 
 1. [Twitter Account](https://twitter.com)
